@@ -1,0 +1,101 @@
+.be:hover
+{
+    transition: 1s;
+    background:red;
+    box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;
+   
+    text-shadow: black;
+}
+.be{
+    border-radius: 10px;
+}
+
+.at:hover
+{
+    transition: 0.5s;
+font-size: 20px;
+ 
+}
+.mmm:hover
+{
+    transition: 1s;
+    background-color: black;
+    color: aliceblue;
+
+border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.17) 0px -23px 25px 0px inset, rgba(0, 0, 0, 0.15) 0px -36px 30px 0px inset, rgba(0, 0, 0, 0.1) 0px -79px 40px 0px inset, rgba(0, 0, 0, 0.06) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;
+}
+.margin
+{
+    margin: 0;
+    padding: 0;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+.bordr
+{
+    margin-left: 10%;
+    border-radius: 15px;
+}
+.m1
+{
+    margin-left: 3%;
+    
+}
+
+
+
+body {
+
+  }
+  
+  .mb_parallax_container>h1,
+  h2 {
+    padding-top: 10vh;
+    color: white;
+    text-align: center;
+  }
+  
+  .mb_parallax_container {
+    height: 100vh;
+    width: 100vw;
+    border-bottom: 10px solid black;
+    padding-top: 20vh;
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  
+  .mb_parallax_overlay {
+    height: 60vh;
+    width: 60vw;
+    margin: auto;
+    background-color: black;
+    opacity: .9;
+    color: aliceblue;
+  }
+  
+  
+  #mb_parallax_one {
+    background-image: url(../imgs/is2.jpg);
+  }
+  
+  #mb_parallax_two {
+    background-image: url(../imgs/is3.jpg);
+  }
+  
+  #mb_parallax_three {
+    background-image: url(../imgs/is4.jpg);
+  }
+  .jack
+  {
+    border-radius: 5px;
+    box-shadow: rgba(255, 255, 255, 0.15) 0px 15px 25px, rgba(231, 215, 215, 0.05) 0px 5px 10px;
+  }
+  .b2
+  {
+margin: 0%;
+padding: 0%;
+
+
+
+  }
